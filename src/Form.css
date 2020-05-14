@@ -1,0 +1,25 @@
+input[type=text],input[type:email],input[type=number] {
+    width: 80%;
+    padding: 5px 22px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border: 2px solidcolor;
+
+}
+
+textarea{
+    width: 80%;
+    padding: 5px 22px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border: 2px solidcolor;
+
+}
+
+input[type=submit]{
+    width: 80%;
+    padding: 5px 22px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border: 2px solidcolor;
+}
